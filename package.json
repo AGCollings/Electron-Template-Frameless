@@ -1,0 +1,17 @@
+{
+    "name": "electron-template-frameless",
+    "version": "0.1.0",
+    "author": "Alex Collings",
+    "description": "Electron Template for a frameless application window.",
+    "main": "public/main.js",
+    "home": ".",
+    "homepage": "./",
+    "private": true,
+    "dependencies": {
+        "path": "^0.12.7",
+        "electron": "^16.0.6"
+    },
+    "scripts": {
+        "dev": "electron ."
+    }
+}
