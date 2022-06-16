@@ -9,7 +9,7 @@
     "private": true,
     "dependencies": {
         "path": "^0.12.7",
-        "electron": "^16.0.6"
+        "electron": "^16.2.6"
     },
     "scripts": {
         "dev": "electron ."
